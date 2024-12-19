@@ -79,10 +79,6 @@ To set up the project locally:
 
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to all contributors and supporters of this project.
